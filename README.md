@@ -1,3 +1,5 @@
+issues: https://github.com/ant-design/ant-design-pro/issues/9095
+
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
